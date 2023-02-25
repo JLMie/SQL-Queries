@@ -132,7 +132,10 @@ FROM Trial.dbo.CleaningdataPort
 
                                                         // EXPORTING THE TABLE //
 
-EXEC master.sys.sp_MSset_oledb_prop;
+-- Look at Object Explorer,  right click on de database logo -> Task -> Export data -> Next ->  Data source -> 
+-- "SQL Server Native Client 11.0" -> Next -> Destination select Microsot Excel -> Next -> Browse -> Type file name ->
+-- Open -> Next -> "Copy data from one or more tablets or views" -> Next -> Select the table -> Next -> Check the table 
+-- Select error and click ignore -> On Truncation press ignore too -> Next -> Finish.
 
                                                           THANKS FOR VISITING!
 
