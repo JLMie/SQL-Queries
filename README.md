@@ -1,2 +1,6 @@
 # SQL
-Summary here about the 3 projects. 
+Summary here about the three projects. 
+Attrition exploration
+HR 
+Sakila
+
