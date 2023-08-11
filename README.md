@@ -1,6 +1,6 @@
 # SQL
 
-  # Attrition exploration.
+  # Attrition exploration project. 
   GOAL: Identify the factors in the process before leaving the company. 
   Describing the most common professional profile which leaves the company. 
   |i| SQL Server and Jupyter Notebook used in this project. 
