@@ -7,7 +7,7 @@
 
   ## HR Clean and queries project.
   GOALS: 1. Identify blanks, nulls, misspellings, duplicates, and clean the database.
-         2.  Get the dataas the  HRdepartment requires. 
+         2.  Get the dataas the  HR department requires. 
   |i| The databasee was created during People Analytics master. 
 
   ## Store and inventory movie project. 
